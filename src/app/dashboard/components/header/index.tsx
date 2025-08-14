@@ -24,7 +24,7 @@ export function Header(){
         <header className={styles.headerContainer}>
             <div className={styles.headerContent}>
                 <Link href="/dashboard">
-                    <Image alt="Logo" src={logoImg} width={190} height={50} priority={true} quality={100}/> {/* priority é prioridade no carregamento */}                
+                    <Image alt="Logo" src={logoImg} width={190} height={50} priority={true} quality={100} className={styles.img} /> {/* priority é prioridade no carregamento */}                
                 </Link>
 
                 <nav>
