@@ -11,13 +11,13 @@ This is the **Admin Panel** of the PizzaFlow system — a full-stack restaurant 
 |-------|---------|
 | ![Login](.github/images/login.png) | ![Sign Up](.github/images/cadastro.png) |
 
-| Dashboard — Last Orders | Order Details |
-|------------------------|---------------|
-| ![Dashboard](.github/images/dashboard.png) | ![Order Details](.github/images/orderDetails.png) |
-
 | New Category | New Product |
 |--------------|-------------|
 | ![Category](.github/images/categoryRegister.png) | ![Product](.github/images/productRegister.png) |
+
+| Dashboard — Last Orders | Order Details |
+|------------------------|---------------|
+| ![Dashboard](.github/images/dashboard.png) | ![Order Details](.github/images/orderDetails.png) |
 
 ---
 
